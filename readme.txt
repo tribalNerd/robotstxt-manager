@@ -3,8 +3,8 @@ Plugin Name: Robots.txt Manager
 Contributors: tribalNerd, Chris Winters
 Tags: robotstxt, robots.txt, robots, robot, spiders, virtual, search, google, seo
 Requires at least: 3.8
-Tested up to: 5.2.2
-Stable tag: 1.0.1
+Tested up to: 5.3.2
+Stable tag: 1.0.3
 License: GNU GPLv3
 License URI: /LICENSE
 
@@ -93,17 +93,15 @@ Use Google's Webmaster Tools to Validate your Robots.txt Files.... with Google a
 
 == Changelog ==
 
-= 1.0.1 =
-* Released: 2019-08-06
-* Changelog: https://github.com/ChrisWinters/robotstxt-manager/blob/master/CHANGELOG.md#101
+= 2.1.1 =
+* Released: 2020-01-11
+* Changelog: https://github.com/ChrisWinters/robotstxt-manager/blob/master/CHANGELOG.md#211
 
 
 == Screenshots ==
 
-1. Plugin Admin Settings Tab - Fresh Install
+1. Plugin Admin - Settings Tab - Fresh Install
 
-2. Plugin Admin Setings Tab - Saved Robots.txt
+2. Plugin Admin - Settings Tab - Saved Robots.txt
 
-3. Viewing Saved Robots.txt
-
-4. Plugin Admin Cleaner Tab
+3. Plugin Admin - Cleaner Tab

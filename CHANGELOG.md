@@ -1,14 +1,32 @@
 # Changelog
 
+# 1.0.3
+**2020-04-12- Hotfix**
+
+* Removed esc_html output around WordPress robots_txt filter in class-robotstxt.php
+* Corrected/added strict comparison in class-robotstxt.php
+* Added namespaces to admin and public class instantiate calls
+* WordPress 5.4 Tested
+
+# 1.0.2
+**2019-08-07 - Hotfix**
+
+* Moved register_activation_hook to robotstxt-manager.php
+* Removed register-plugin-hooks.php
+
 # 1.0.1
 **2019-08-06 - Hotfix**
-* Corrected plugin translation file being called incorrectly.
-* Moved admin/public class calls into plugins_loaded hook.
+
+* Corrected plugin translation file being called incorrectly
+* Moved admin/public class calls into plugins_loaded hook
+* Moved /svn/ directory to root directory
+* Corrected screenshot links in README file
+* Corrected bump.js gulp task
 
 # 1.0.0
 **2019-06-27 - Release**
 
-* Offical Release
+* Official Release
 * Migrated to new plugin format, added gulpfile.js to manage plugin admin styling
 * Set activation hook to get website robots.txt file and set as saved robots.txt for plugin
 * Add Plugin Update Checker for Github release updates via the WordPress admin

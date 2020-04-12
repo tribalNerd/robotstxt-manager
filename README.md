@@ -3,10 +3,10 @@
 * **Contributors:** tribalNerd, Chris Winters
 * **Tags:** robotstxt, robots.txt, robots, robot, spiders, virtual, search, google, seo
 * **Requires at least:** 3.8
-* **Tested up to:** 5.2.2
-* **Stable tag:** 1.0.1
+* **Tested up to:** 5.4
+* **Stable tag:** 1.0.3
 * **License:** GNU GPLv3
-* **License URI:** https://github.com/ChrisWinters/robotstxt-manager/blob/master/LICENSE
+* **License URI:** /LICENSE
 
 A Simple Robots.txt Manager Plugin For WordPress.
 
@@ -18,6 +18,7 @@ A Simple Robots.txt Manager Plugin for WordPress with 7 pre-created robots.txt f
 
 ### Features:
 
+* GitHub installs update like any other WordPress plugin
 * Full control over your WordPress website robots.txt file
 * 7 Pre-created robots.txt files to help you get started
 * Auto-detects sitemap Url, active theme path & upload directory
@@ -91,17 +92,15 @@ Use Google's Webmaster Tools to Validate your Robots.txt Files. With Google: Log
 * Better WordPress Google XML Sitemaps: http://wordpress.org/extend/plugins/bwp-google-xml-sitemaps/
 
 
-### 1.0.0
-* Released: 2019-06-27
-* Changelog: https://github.com/SecretumTheme/secretum/blob/master/CHANGELOG.md#100
+### 1.0.3
+* Released: 2020-04-12
+* Changelog: https://github.com/ChrisWinters/robotstxt-manager/blob/master/CHANGELOG.md#103
 
 
 ## Screenshots
 
-1. [Plugin Admin Settings Tab - Fresh Install](https://github.com/ChrisWinters/robotstxt-manager/blob/master/svn/assets/screenshot-1.png)
+1. [Plugin Admin - Settings Tab - Fresh Install](https://raw.githubusercontent.com/ChrisWinters/robotstxt-manager/master/svn/screenshot-1.png)
 
-2. [Plugin Admin Setings Tab - Saved Robots.txt](https://github.com/ChrisWinters/robotstxt-manager/blob/master/svn/assets/screenshot-2.png)
+2. [Plugin Admin - Settings Tab - Saved Robots.txt](https://raw.githubusercontent.com/ChrisWinters/robotstxt-manager/master/svn/screenshot-2.png)
 
-3. [Viewing Saved Robots.txt](https://github.com/ChrisWinters/robotstxt-manager/blob/master/svn/assets/screenshot-3.png)
-
-4. [Plugin Admin Cleaner Tab](https://github.com/ChrisWinters/robotstxt-manager/blob/master/svn/assets/screenshot-4.png)
+3. [Plugin Admin - Cleaner Tab](https://raw.githubusercontent.com/ChrisWinters/robotstxt-manager/master/svn/screenshot-3.png)
