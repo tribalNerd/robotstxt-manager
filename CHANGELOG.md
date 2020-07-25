@@ -1,5 +1,17 @@
 # Changelog
 
+# 1.0.5
+**2020-07-25- Hotfix**
+
+* Simplified how plugin loads features
+* Refactor robotstxt class and robots.txt detection
+
+# 1.0.4
+**2020-07-24- Hotfix**
+
+* Update Plugin Update Checker from v4 to v4.9
+* Corrected Robotstxt class instance callable
+
 # 1.0.3
 **2020-04-12- Hotfix**
 
